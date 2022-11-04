@@ -1,2 +1,2 @@
-# portfolio
-Duc Do's portfolio page
+# blog
+Duc Do personal blog
